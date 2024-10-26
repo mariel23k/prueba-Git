@@ -1,0 +1,17 @@
+git hab
+cuenta caneda.23@gmail.com
+user mariel23k
+pass Mariel23@knd
+
+ 1  cd "/c/Users/marie/Desktop/hello Git" o
+    cd "C:/Users/marie/Desktop/hello Git/" -- siempre
+    usar comillas para las rutas
+ 2  git init 
+    --se ha inicializado un repositorio vacio en la 
+    ruta y carpeta indicada con git init
+ 3  git config user.name "mariel23k"
+ 4  git config user.email "caneda@gmail.com"
+ 5  git remote add origin "https://github.com/mariel23k/prueba-Git"
+    -- url del repositorio en github
+
+ 6  
